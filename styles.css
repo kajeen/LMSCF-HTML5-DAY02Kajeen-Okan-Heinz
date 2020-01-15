@@ -1,0 +1,30 @@
+img {
+	border: dashed;
+	margin: 15px;
+	color: red;
+
+}
+p{
+	font-family: italic;
+	border: solid;
+	margin: 15px;
+	color: black;
+
+}
+ div >p #third{
+	visibility: hidden;
+
+}
+h1{
+	visibility: hidden;
+
+}
+
+* {
+	display: none;
+
+}
+img {
+	display: inline;
+
+}
